@@ -7,7 +7,7 @@ export default class ExampleOne extends Component {
     constructor(props) {
       super(props);
       this.state = {
-        tableHead: ['Расписсание'],
+        tableHead: ['Расписание '],
         tableData: [
           ['Понедельник'],
           ['Русский язык', '9 каб', ],
